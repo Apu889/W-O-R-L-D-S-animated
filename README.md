@@ -1,2 +1,2 @@
 # 【=◈︿◈=】
-Recreating iconic kaomoji from Porter Robinson's Worlds using ASCII arts on Microsoft Windows batch programming language with some loop animations.
+Recreating the Porter Robinson's Worlds iconic kaomoji using ASCII arts on Microsoft Windows batch programming language with animation loops.
